@@ -56,8 +56,7 @@ The theory explains why your sales system is stuck. The playbook tells you what 
 
 Extends Assembly Theory (Cronin & Marshall, 2021) with adjacent work from dissipative adaptation, the free energy principle, niche construction theory, and the adjacent possible. Details and citations are in the skill file.
 
-[*The Keeper*](https://keeperfable.com) explores these dynamics as fable. The bees outsource their gradient coupling to the keeper, lose          
-  structural compatibility with their own ecology, and end up as commodities in someone else's circulation system. The wild bees are the ones who maintained their own solvency.🐝
+[*The Keeper*](https://keeperfable.com) explores these dynamics as fable. The bees outsource their gradient coupling to the keeper, lose structural compatibility with their own ecology, and end up as commodities in someone else's circulation system. The wild bees are the ones who maintained their own solvency.🐝
 ---
 
 Sprint Playbook by Simon Severino at [Strategy Sprints](https://strategysprints.com).*
