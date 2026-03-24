@@ -1,62 +1,77 @@
-# Luck: A Framework for What Persists and Compounds
+# Why Some Things Compound and Others Just.. Stop
 
-> Immediately increases your surface area for luck, and improves your probability of distribution and circulation.
+Luck is not randomness. Luck is not a position. Luck is a current — and it has a geometry you can arrange.
 
-## The core idea
-
-Luck is not randomness nor an outcome. Luck is not a position. Luck is more like a fundamental force, a current.
-
-Luck has a geometry, so we can arrange it. We harness luck through our capacity to increase the throughput, circulation, and integration of the systems we inhabit.
-
-Luck is not something we have. It's something we leave behind.
+This framework diagnoses why systems persist or die, then shows you how to build ones that compound.
 
 ---
 
-This repo contains two layers that work together:
+## Two Layers, One System
 
-## The Foundation: [luck.md](luck.md)
+### 1. The Foundation: [luck.md](luck.md)
 
-A framework for diagnosing why some things persist and compound while others don't — and for building artifacts that do. Grounded in Assembly Theory, it formalizes luck as a measurable force: the rate at which you increase throughput, circulation, and integration in the systems you participate in. Seven diagnostic facets. Seven failure patterns. Falsifiable predictions.
+The physics.. seven diagnostic facets that reveal whether your system will persist, compound, or collapse. Grounded in Assembly Theory (Cronin & Marshall, 2021). Falsifiable predictions. Worked examples from political memes to the U.S. Constitution.
 
-Add `luck.md` to your project as a skill file or system prompt. The framework uses standard markdown with YAML frontmatter — it works with any frontier model that accepts structured instructions.
+**Read this to understand WHY.**
 
-**Read this to understand WHY systems succeed or fail.**
+### 2. The Sprint Playbook: [sprint-diagnostic.md](sprint-diagnostic.md)
 
-### What's in the box
+The workout plan.. each facet translated into Monday strategy reviews, Friday results reviews, sprint metrics, and AI acceleration plays for B2B business owners.
 
-- **Seven sequential diagnostics** — from individual solvency to ecological integration
-- **A failure taxonomy** — named patterns like *flash in the pan*, *institutional zombie*, and *pooled fortune*, each with observable signatures
-- **Worked examples** — from political memes to the U.S. Constitution to the collapse of empires
-- **Testable predictions** — six falsifiable claims that distinguish this from generic strategy advice
-- **Reflexive AI instructions** — guidance for applying the framework to any output an AI system constructs
+**Read this to FIX it this week.**
 
-## The Sprint Playbook: [sprint-diagnostic.md](sprint-diagnostic.md)
+## The Seven Facets
 
-The practical application for B2B business owners who want to close bigger deals, faster, without hiring more people. Takes each of the seven facets and translates them into Monday strategy reviews, Friday results reviews, sprint dashboard metrics, and AI acceleration plays.
+| Facet | Theory | In Your Business |
+|---|---|---|
+| Solvency | Coupling to gradients against entropy | Can you survive a quiet month? |
+| Gradient Coupling | Connecting to active energy flows | Are you selling into real pain? |
+| Structural Compatibility | Reconstruction cost vs. assembly index | Can prospects actually buy what you sell? |
+| Niche Construction | Reshaping environment for self-reproduction | Does every client make the next one easier? |
+| Circulation | Throughput flowing through and returning | Does value come back, or just go out? |
+| Integration | Network density of ecological coupling | Do the parts reinforce each other? |
+| Path Sensitivity | Right sequence at the right moment | Is the market ready for this right now? |
 
-**Read this to FIX your sales system this week.**
+## Seven Failure Patterns
 
-## How They Connect
+Each has observable signatures — not vibes, not guesses:
 
-The foundation gives you the physics. The sprint playbook gives you the workout plan.
+- **Flash in the pan** — spreads fast, doesn't stick
+- **Cult classic** — brilliant but inaccessible
+- **Institutional zombie** — running on momentum, energy source gone
+- **Premature artifact** — right idea, wrong moment
+- **Extractive mirage** — looks like growth, actually burning substrate
+- **Pooled fortune** — high output, no return loop
+- **Fragmented ecology** — good parts that don't talk to each other
 
-| Foundation (luck.md) | Sprint Playbook (sprint-diagnostic.md) |
-|---|---|
-| Solvency: coupling to gradients against entropy | Can your business survive a quiet month? |
-| Gradient coupling: connecting to active energy flows | Are you selling into real pain? |
-| Structural compatibility: reconstruction cost vs. assembly index | Can prospects actually buy what you sell? |
-| Niche construction: reshaping environment for self-reproduction | Does every client make the next one easier? |
-| Circulation: throughput flowing through and returning | Does value come back, or just go out? |
-| Integration: network density of ecological coupling | Do the parts of your business reinforce each other? |
-| Path sensitivity: right sequence at the right moment | Is the market ready for what you're selling right now? |
+## How to Use It
 
-The theory explains why your sales system is stuck. The playbook tells you what to do about it in your next sprint.
+### Claude Code slash command
 
-## Theoretical roots
+```
+/luck-diagnostic
+```
 
-Extends Assembly Theory (Cronin & Marshall, 2021) with adjacent work from dissipative adaptation, the free energy principle, niche construction theory, and the adjacent possible. Details and citations are in the skill file.
+### Standalone
 
-[*The Keeper*](https://keeperfable.com) explores these dynamics as fable. The bees outsource their gradient coupling to the keeper, lose structural compatibility with their own ecology, and end up as commodities in someone else's circulation system. The wild bees are the ones who maintained their own solvency.🐝
+Paste `luck.md` into any frontier model. Describe your system. Ask for the diagnostic.
+
+### As a skill file
+
+Add `luck.md` to your project context. Works with any model that accepts structured instructions.
+
 ---
 
-Sprint Playbook by Simon Severino at [Strategy Sprints](https://strategysprints.com).*
+## Theoretical Roots
+
+Extends Assembly Theory with adjacent work from dissipative adaptation, the free energy principle, niche construction theory, and the adjacent possible. Full citations in the skill file.
+
+---
+
+## About
+
+Built by Simon Severino — author of *Strategy Sprints* and *Time Freedom* with Jay Abraham. Added over $2 Billion in sales to B2B clients in finance, software, and consulting.
+
+[Book a free Strategy Sprint call](https://www.strategysprints.com)
+
+*keep rolling, Simon & The Sprinters*
